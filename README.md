@@ -1,4 +1,4 @@
-# PLAZA FINANCE BOT
+## PLAZA FINANCE BOT
 ![BANNER PLAZA FINANCE](image/image-1.png)
 Plaza is a platform for on-chain bonds and leverage on Base.
 
@@ -6,12 +6,13 @@ Plaza is a platform for programmable derivatives built as a set of Solidity smar
 
 ![banner](image/image.png)
 
-- Website [https://testnet.plaza.finance/](https://testnet.plaza.finance/rewards/JL4590xVLSix)
+- Website [https://testnet.plaza.finance/](https://testnet.plaza.finance/rewards/k41VvSZQ9ErS)
 - Twitter [@plaza_finance](https://x.com/plaza_finance)
 
 ## Update 
 - for now we need to manually claim eth base sepolia testnet
 - claim faucet eth here https://www.alchemy.com/faucets/base-sepolia
+- bridge : https://testnets.superbridge.app/base-sepolia
 - distribute eth base sepolia to all wallets in wallets.json
 - ```bash
    npm run faucet
@@ -41,8 +42,8 @@ Plaza is a platform for programmable derivatives built as a set of Solidity smar
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/plazafintot.git
-   cd plazafintot
+   git clone https://github.com/stephenahmeed/plazabot.git
+   cd plazabot
    ```
 2. Install dependencies:
    ```bash
@@ -71,6 +72,4 @@ Plaza is a platform for programmable derivatives built as a set of Solidity smar
    npm run start
    ```
 
-## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-This project is licensed under the [MIT License](LICENSE).
+## Join My Airdrop Channel For Upcoming Update: https://t.me/sabbirofficialairdrop
