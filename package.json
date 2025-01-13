@@ -1,0 +1,22 @@
+{
+  "name": "plaza-finance-bot",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "autosend": "node autoSend.js",
+    "create": "node createWallet.js",
+    "faucet": "node faucet.js"
+  },
+  "author": "@zlkcyber",
+  "license": "MIT",
+  "description": "plaza finance bot",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "ethers": "^6.13.4",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2",
+    "winston": "^3.17.0"
+  }
+}
