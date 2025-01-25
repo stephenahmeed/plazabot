@@ -3,7 +3,7 @@ import log from "./logger.js";
 
 // Configuration
 const provider = new ethers.JsonRpcProvider('https://sepolia.base.org');
-const contractAddress = '0x47129e886b44B5b8815e6471FCD7b31515d83242';
+const contractAddress = '0xF39635F2adF40608255779ff742Afe13dE31f577';
 const explorer = 'https://sepolia.basescan.org/tx/'
 const ApproveAmount = ethers.parseUnits('10000', 'ether');
 const depositAmount = ethers.parseUnits('0.01', 'ether');
